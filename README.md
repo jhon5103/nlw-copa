@@ -29,10 +29,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">HTML</span><br>
 
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">CSS<br>
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">JavaScript<br>
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">Git<br>
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">Github
+## <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">CSS<br>
+
+## <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">JavaScript<br>
+
+## <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">Git<br>
+
+## <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">Github
+
 </code>
 
 ## 💻 Projeto
