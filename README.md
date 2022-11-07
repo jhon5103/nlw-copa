@@ -24,21 +24,22 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+<code>
+-><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">HTML<br>
+<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">CSS<br>
 
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">HTML
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">CSS
-
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">JavaScript
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">Git
+<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">JavaScript<br>
+<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">Git<br>
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">Github
+</code>
 
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+o Calendário da Copa é um projeto que mostra os jogos da Copa 2022.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/0XDUXOAvlGaf3OzsPnJamn/Calend%C3%A1rio-de-Jogos-(Community)>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
