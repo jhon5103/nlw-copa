@@ -26,7 +26,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 <code>
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">HTML</span><br>
+
+## <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">HTML</span><br>
+
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">CSS<br>
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">JavaScript<br>
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">Git<br>
